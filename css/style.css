@@ -326,7 +326,7 @@ figure {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("/Mitul-Mital-Final/Mitul-Mital-main/images/U79A0204.JPG") no-repeat center center;
+  background: url("/mitul-mital/images/U79A0204.JPG") no-repeat center center;
   background-size: cover;
   filter: blur(3px); /* Adjust the blur intensity */
   z-index: -1; /* Ensures the background stays behind the content */
